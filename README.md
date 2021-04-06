@@ -1,5 +1,5 @@
 # Data Structures and Algorithms  
-Various Data Structures & Algorithms:  
+## Various Data Structures & Algorithms:  
 
 itrQuickSort == Iterative Quicksort Algorithm  
 quickSort == Quicksort Algorithm  
